@@ -4,6 +4,7 @@ namespace TheCodingMachine\CompositeContainer;
 use Acclimate\Container\CompositeContainer;
 use Interop\Container\ContainerInterface;
 use Mouf\Picotainer\Picotainer;
+use Puli\Discovery\Api\Discovery;
 
 class CompositeContainerFactory
 {
